@@ -1,3 +1,4 @@
 <?php 
-	echo('xin chao');
+	echo('xin');
+	echo "xin chao cac ban";
 ?>
